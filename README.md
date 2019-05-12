@@ -2,6 +2,12 @@
 
 A new Flutter chat application build on CometChat SDK.
 
+# How to run:
+
+* Install the app in two different mobiles.
+* Login with Batman on first mobile and as Superman on the second mobile.
+* Now both the superheroes can communicate using text messages.
+
 # Screenshots:
 ![Login](https://user-images.githubusercontent.com/14856659/57581397-8da80b80-74d4-11e9-8dbf-cf51297086c5.png)
 
