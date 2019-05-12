@@ -1,6 +1,13 @@
 # gossip
 
-A new Flutter application.
+A new Flutter chat application build on CometChat SDK.
+
+# Screenshots:
+![Login](https://user-images.githubusercontent.com/14856659/57581397-8da80b80-74d4-11e9-8dbf-cf51297086c5.png)
+
+![Chat screen](https://user-images.githubusercontent.com/14856659/57581406-add7ca80-74d4-11e9-802d-f15743a4cd22.png)
+
+
 
 ## Getting Started
 
