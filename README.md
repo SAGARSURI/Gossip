@@ -1,6 +1,6 @@
 # gossip
 
-A new Flutter chat application build on CometChat SDK.
+A new Flutter chat application built using the CometChat SDK.
 
 # How to run:
 
@@ -9,6 +9,9 @@ A new Flutter chat application build on CometChat SDK.
 * Run the app in two different simulators or emulators through Android Studio.
 * Login with Batman on one device and as Superman on another.
 * Now both the superheroes can communicate using text messages.
+
+# Demo Video:
+[![](https://j.gifs.com/WLjAzJ.gif)](https://www.youtube.com/watch?v=VetLXPMZ_zk&t=23s)
 
 # Screenshots:
 <img src="https://user-images.githubusercontent.com/14856659/57581397-8da80b80-74d4-11e9-8dbf-cf51297086c5.png" width="400" height="790"> <img src="https://user-images.githubusercontent.com/14856659/57581406-add7ca80-74d4-11e9-802d-f15743a4cd22.png" width="400" height="790">
